@@ -47,7 +47,7 @@
 </br>
 
 <h3 align="left">▶ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeBucks" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br><br>
 
 <!-- ### Hi there 👋
 
