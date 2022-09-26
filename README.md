@@ -17,6 +17,13 @@
 
 - 📫 How to reach me **codebucks27@gmail.com**
 
+</br>
+Latest Tutorials on Youtube👇: </br></br>
+
+🗯 <a href="https://youtu.be/OG71ARNRPT4" target="blank">How to host React application on Netlify ☁ for free!</a> </br>
+🗯 <a href="https://youtu.be/cT160dOzpGY" target="blank">🔥Build awesome landing page for Apple iPhone [ ThreeJS + ReactJS ]</a>
+
+
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
