@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [CodeBucks](https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA) (My YouTube Channel) and <a href="https://devdreaming.com" target="blank" rel="dofollow">DevDreaming</a> (A website where I can share more then videos).
 
-- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank" rel="dofollow">DevDreaming</a>
+- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>
 
 - 💬 Ask me about **React, Redux, GraphQl, NextJS**
 
