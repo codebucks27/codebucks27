@@ -18,10 +18,15 @@
 - 📫 How to reach me **codebucks27@gmail.com**
  
 </br>
+Latest Articles👇:
+
+📝<a href="https://devdreaming.com/blogs/top-10-popular-vs-code-themes" target="blank" rel="dofollow">Top 10 Popular VS Code Themes You Should Try</a>🔥
+
+</br>
 Latest Tutorials on Youtube👇: </br></br>
 
-🗯 <a href="https://youtu.be/OG71ARNRPT4" target="blank">How to host React application on Netlify ☁ for free!</a> </br>
-🗯 <a href="https://youtu.be/cT160dOzpGY" target="blank">🔥Build awesome landing page for Apple iPhone [ ThreeJS + ReactJS ]</a>
+📺 <a href="https://youtu.be/Yw7yWHigGKI" target="blank">How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟</a> </br>
+📺 <a href="https://youtu.be/JPlVb3t6kx8" target="blank">React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS</a>
 
 
 <!-- ### Blogs posts -->
