@@ -25,6 +25,7 @@ Latest Articles👇:
 </br>
 Latest Tutorials on Youtube👇: </br></br>
 
+📺 <a href="https://youtu.be/1QGLHOaRLwM" target="blank">Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥</a> </br>
 📺 <a href="https://youtu.be/Yw7yWHigGKI" target="blank">How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟</a> </br>
 📺 <a href="https://youtu.be/JPlVb3t6kx8" target="blank">React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS</a>
 
