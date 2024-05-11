@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>
 
-- 💬 Ask me about **React, Redux, GatsbyJS, NextJS**
+- 💬 Ask me about **React, Redux, GatsbyJS, NextJS, GenAI, LLM**
 
 - 📫 How to reach me **codebucks27@gmail.com**
  
@@ -25,7 +25,8 @@ Latest Articles👇: </br>
 
 </br>
 Latest Tutorials on Youtube👇: </br>
-
+📺 <a href="https://youtu.be/T5t46vuW8fo" target="blank">Build an Amazing Personal Portfolio Website with Next.js, Three.js & Tailwind CSS</a> </br>
+📺 <a href="https://youtu.be/QNh0MH-G3OM" target="blank">Implement Smooth Scroll & Parallax Effect in Next.js using Lenis and GSAP</a> </br>
 📺 <a href="https://youtu.be/1QGLHOaRLwM" target="blank">Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥</a> </br>
 📺 <a href="https://youtu.be/Yw7yWHigGKI" target="blank">How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟</a> </br>
 📺 <a href="https://youtu.be/JPlVb3t6kx8" target="blank">React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS</a>
