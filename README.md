@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Agency-CodeBucks-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="CodeBucks Agency" />
   </a>
   <a href="https://devdreaming.com">
-    <img src="https://img.shields.io/badge/Blog-DevDreaming-00C2FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="DevDreaming" />
+    <img src="https://img.shields.io/badge/Blog-DevDreaming-534AB7?style=for-the-badge&logo=hashnode&logoColor=white" alt="DevDreaming" />
   </a>
   <a href="https://www.youtube.com/@codebucks">
     <img src="https://img.shields.io/badge/YouTube-CodeBucks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -30,9 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=00c2ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=534AB7&style=flat-square" alt="Profile views" />
   <a href="https://github.com/codebucks27?tab=followers">
-    <img src="https://img.shields.io/github/followers/codebucks27?label=Followers&style=flat-square&color=00c2ff" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/codebucks27?label=Followers&style=flat-square&color=534AB7" alt="Followers" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ fun_fact: "I can work without coffee! 😝"
 
 <p align="center">
   <a href="https://cal.com/codebucks">
-    <img src="https://img.shields.io/badge/📅_Book_a_Free_30--min_Discovery_Call-00C2FF?style=for-the-badge" alt="Book a call" />
+    <img src="https://img.shields.io/badge/📅_Book_a_Free_30--min_Discovery_Call-534AB7?style=for-the-badge" alt="Book a call" />
   </a>
 </p>
 
@@ -228,7 +228,7 @@ fun_fact: "I can work without coffee! 😝"
 
 <p align="center">
   <a href="https://github.com/codebucks27?tab=repositories">
-    <img src="https://img.shields.io/badge/See_all_repositories-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+    <img src="https://img.shields.io/badge/See_all_repositories-534AB7?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
   </a>
 </p>
 
@@ -259,19 +259,19 @@ fun_fact: "I can work without coffee! 😝"
 
 <p align="center">
   <a href="https://github.com/codebucks27">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=534AB7" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/codebucks27">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebucks27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&langs_count=8" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebucks27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&theme=tokyonight&hide_border=true&background=0D1117&ring=534AB7&fire=534AB7&currStreakLabel=534AB7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebucks27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebucks27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=534AB7&line=534AB7&point=FFFFFF&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
