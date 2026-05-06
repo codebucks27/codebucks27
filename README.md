@@ -185,9 +185,9 @@ fun_fact: "I can work without coffee! 😝"
 
 <!-- ===================== PINNED PROJECTS ===================== -->
 
-## 🌟 Featured Open-Source Projects
+<!--## 🌟 Featured Open-Source Projects 
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code">
@@ -230,7 +230,7 @@ fun_fact: "I can work without coffee! 😝"
   <a href="https://github.com/codebucks27?tab=repositories">
     <img src="https://img.shields.io/badge/See_all_repositories-534AB7?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
   </a>
-</p>
+</p> -->
 
 <!-- ===================== CONTENT ===================== -->
 
