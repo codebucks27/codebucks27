@@ -245,6 +245,7 @@ fun_fact: "I can work without coffee! 😝"
 
 ## 📺 Latest YouTube Tutorials
 
+<a href="https://youtu.be/1qJEZVr6eXE">🎬 Build & Deploy an Animated Next.js 16 Portfolio with Tailwind CSS & Framer Motion</a><br/>
 <a href="https://youtu.be/T5t46vuW8fo">🎬 Build a Personal Portfolio with Next.js, Three.js & Tailwind CSS</a><br/>
 <a href="https://youtu.be/QNh0MH-G3OM">🎬 Smooth Scroll & Parallax in Next.js with Lenis and GSAP</a><br/>
 <a href="https://youtu.be/1QGLHOaRLwM">🎬 Build an SEO-Optimized Blog with Next.js, Contentlayer & Tailwind</a><br/>
