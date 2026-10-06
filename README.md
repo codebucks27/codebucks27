@@ -325,3 +325,9 @@ fun_fact: "I can work without coffee! 😝"
 <p align="center">
   <sub>⭐ If you find my open-source work helpful, consider starring the repos, it genuinely helps! ⭐</sub>
 </p>
+
+## Other project
+
+I also created [SmartHeadshots AI](https://www.smartheadshots.ai/), a separate hosted product for professional profile photos.
+
+Languages: [Deutsch](https://www.smartheadshots.ai/de) · [Español](https://www.smartheadshots.ai/es).
